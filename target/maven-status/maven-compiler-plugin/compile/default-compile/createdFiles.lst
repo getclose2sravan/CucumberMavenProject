@@ -1,0 +1,10 @@
+pageObjects\DashboardHomePage.class
+pageObjects\LoginPage.class
+dataProvider\ConfigFileReader.class
+managers\WebDriverManager$1.class
+managers\WebDriverManager.class
+pageObjects\WelcomePage.class
+enums\DriverType.class
+enums\EnvironmentType.class
+managers\PageObjectManager.class
+managers\FileReaderManager.class

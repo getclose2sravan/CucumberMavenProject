@@ -1,0 +1,6 @@
+stepDefinitions\Hooks.class
+cucumber\TestContext.class
+stepDefinitions\LoginPageSteps.class
+stepDefinitions\WelcomePageSteps.class
+runners\TestRunner.class
+stepDefinitions\DashboardHomePageSteps.class
